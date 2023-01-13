@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data analysis, data science and Japanese for a hobby
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me : my email: yisu0128@gmail.com
-- 🐾 I am currently looking for a intern and a job working as a data analysist or marketer using data
+- 🐾 I am currently looking for a intern or a junior hiring working as a data analysist or marketer using data
 - 🌏interested in working abroad. can communicate with Korean, English and Chinese. 
 
 <!---
