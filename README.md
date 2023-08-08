@@ -8,3 +8,5 @@
 
 
 ![yisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yisu0128&theme=buefy&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yisu0128&layout=compact)](https://github.com/yisu0128/github-readme-stats)
