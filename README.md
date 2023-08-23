@@ -9,6 +9,6 @@
 
 ![yisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yisu0128&theme=buefy&show_icons=true)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={yisu0128}&show_icons=true&theme={theme})](https://github.com/{yisu0128}/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yisu0128&show_icons=true&theme={theme})](https://github.com/yisu0128/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yisu0128)](https://solved.ac/yisu0128)
