@@ -5,6 +5,11 @@
 - 🐾 I am currently looking for a intern or a junior hiring working as a junior developer
 - 🌏interested in working abroad. can communicate with Korean, English and Chinese. 
 
+#### meet me here
+https://chipchip-dev.tistory.com/
+
+
+
 
 
 
